@@ -40,3 +40,8 @@ g++ -o main Main.cpp CompClub.cpp
 
 ![image](https://github.com/DoraTheExplorer2508/testYadro/assets/71318362/729c21d1-8e10-4636-8dcd-915c66df1e54)
 
+`file4` - Видно сортировку в алфавитном порядке в конце рабочего дня.
+
+![image](https://github.com/DoraTheExplorer2508/testYadro/assets/71318362/fde9dec0-5cc8-4efb-9151-5452aaa70b5a)
+
+
