@@ -4,11 +4,13 @@
 
 ```
 git clone https://github.com/DoraTheExplorer2508/testYadro
+```
 
 Перейти в директорию
 
 ```
 cd testYadro
+```
 
 Скомпилировать файлы
 
