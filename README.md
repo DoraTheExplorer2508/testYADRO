@@ -36,7 +36,7 @@ g++ -o main Main.cpp CompClub.cpp
 ![image](https://github.com/DoraTheExplorer2508/testYadro/assets/71318362/f1d8f7fb-d07c-4c48-bf7e-dd6a11d8a703)
 
 
-`file3` - 
+`file3` - Тест со сменой столов и неинициализированным клиентом.
 
 ![image](https://github.com/DoraTheExplorer2508/testYadro/assets/71318362/729c21d1-8e10-4636-8dcd-915c66df1e54)
 
