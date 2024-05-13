@@ -2,13 +2,18 @@
 #include "CompClub.h"
 using namespace std;
 
-int main() {
+int main(int argc, char* argv[]) {
 	CompClub c1;
-	try {
-		CheckFile("file1.txt");
-		ReadFile("file1.txt", c1);
+	if (argc < 2) {
+	    cout << "not enough arguments to call" << endl;
+	    exit(1);
 	}
-	catch (const std::string& e) {
+	try {
+		string fileName = argv[1];
+		CheckFile(fileName);
+		ReadFile(fileName, c1);
+	}
+	catch (const string& e) {
 		cerr << e << endl;
 		exit(1);
 	}
