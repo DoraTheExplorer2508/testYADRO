@@ -1,0 +1,18 @@
+4
+10:00 19:30
+15
+09:00 1 vasya
+10:41 1 vasya
+10:51 1 kolya
+10:54 2 vasya 2
+11:25 2 kolya 1
+11:34 1 petya
+11:38 2 gena 2
+11:58 1 maksim
+12:05 2 maksim 3
+12:23 4 kolya
+13:35 2 petya 4
+13:46 4 maksim
+13:59 2 petya 3
+14:43 4 petya
+14:44 1 adam
